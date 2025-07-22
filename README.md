@@ -83,11 +83,11 @@ LangGraph makes it easy to **visualize the flow** of your application.
 
 ### ✅ Example: Basic Flow
 
-![Basic Flow](./images/basic_flow.png)
+![Basic Flow](./flows/simpleFlow.png)
 
 ### ✅ Example: Routed Chatbot Flow
 
-![Routed Flow](./images/routed_flow.png)
+![Routed Flow](./flows/flow.png)
 
 > These were generated using:
 
